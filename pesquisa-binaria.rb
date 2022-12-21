@@ -36,7 +36,7 @@ while alto != baixo
     #verificação do que aconteceu no código:
     puts "baixo: #{baixo}, alto: #{alto}, medio: #{medio}"
 
-    if x == numeros[medio]
+    if x == numeros[medio] 
         return puts "o número #{x}, tem índice #{medio}"
         break
     elsif x > numeros[medio] 
