@@ -1,7 +1,7 @@
 #verificar se uma palavra é palindromo
 
 p "digite uma palavra para verificar se ela é um palíndromo"
-palavra = gets.chomp
+palavra = gets.chomp.downcase
 
 
 def palindromo(palavra)
