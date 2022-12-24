@@ -1,0 +1,2 @@
+class NomeDaClasse
+end
