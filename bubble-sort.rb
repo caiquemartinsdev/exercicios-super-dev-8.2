@@ -4,7 +4,6 @@ list = [4,56,1,34,79,22]
 
 # Exemplo excelente que encontrei no Stack Over Flow:
 
-
     def bubble_sort(list)
         #return list if list.size <= 1 # already sorted
         swapped = true
