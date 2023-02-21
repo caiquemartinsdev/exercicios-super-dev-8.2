@@ -28,12 +28,5 @@ list = [4,56,1,34,79,22]
 
 #MEU CÓDIGO
 
-
-
-
-
-
-
-
       bubble_sort(list)
       p list
